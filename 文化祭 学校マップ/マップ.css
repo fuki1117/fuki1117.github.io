@@ -5,7 +5,19 @@ h1{
     text-align: center;
 }
 
-img{
-    width: 100vw;
-    height: auto;
+table{
+    margin: 3px auto;
+    text-align: center;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.image-wrap{
+    margin: 10px 5px;
+}
+
+.image-wrap img{
+    height: 300px;
 }
